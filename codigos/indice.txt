@@ -1,0 +1,37 @@
+
+1.- Datos primitivos vs referencia
+2.- Constantes
+3.- Conversión de tipos
+4.- Arrays
+5.- Bucles
+6.- Mathematicas
+8.- Metodos
+9.- Ámbito de las variables
+10.- Excepciones
+
+
+============================================
+
+Ejecicios del 1 - 15 (eval. inicial)
+
+=============================================
+
+11 .- POO
+
+===========================================
+
+Ejercicios de POO
+
+===========================================
+
+
+
+Creación de clases "Coche" y "Empleado" con atributos y métodos y creación de objetos.
+
+12.- Constructores
+13.- Herencia
+14.- Métodos
+15.- static
+16.- Interfaces
+17.- Colecciones y Mapas (respaso java)
+
