@@ -4,34 +4,26 @@
 3.- Conversión de tipos
 4.- Arrays
 5.- Bucles
-6.- Mathematicas
-8.- Metodos
+8.- Métodos
 9.- Ámbito de las variables
 10.- Excepciones
 
 
 ============================================
 
-Ejecicios del 1 - 15 (eval. inicial)
+Ejercicios del 1 - 15 (eval. inicial)
 
 =============================================
 
-11 .- POO
+11.- Herencia
+12.- Static
+13.- Métodos
+14.- Sobrecarga de métodos
+15.- Sobrecarga de constructores
+16.- Métodos de la clase String
+17.- Métodos de la clase Math
 
-===========================================
 
-Ejercicios de POO
+ ===========================================
 
-===========================================
-
-
-
-Creación de clases "Coche" y "Empleado" con atributos y métodos y creación de objetos.
-
-12.- Constructores
-13.- Herencia
-14.- Métodos
-15.- static
-16.- Interfaces
-17.- Colecciones y Mapas (respaso java)
-
+ Ejercicios POO (Poner el ejemplo con la cuenta bancaria) Ejercicios 2,3,4,5,6

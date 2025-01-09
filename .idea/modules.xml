@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/codigos/codigos_clases/codigos/codigos.iml" filepath="$PROJECT_DIR$/codigos/codigos_clases/codigos/codigos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios/ejercicios.iml" filepath="$PROJECT_DIR$/ejercicios/ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codigos/codigos_clases/ficheros/ficheros.iml" filepath="$PROJECT_DIR$/codigos/codigos_clases/ficheros/ficheros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/programacion.iml" filepath="$PROJECT_DIR$/.idea/programacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codigos/codigos_clases/codigos/repaso_java/repaso_java.iml" filepath="$PROJECT_DIR$/codigos/codigos_clases/codigos/repaso_java/repaso_java.iml" />
+    </modules>
+  </component>
+</project>
