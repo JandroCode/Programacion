@@ -19,7 +19,7 @@ Ejercicios del 1 - 15 (eval. inicial)
 12.- Static
 13.- Métodos
 14.- Sobrecarga de métodos
-15.- Sobrecarga de constructores
+15.- Sobrecarga de constructores (Está en dos sitios, en la carpeta sobrecarga)
 16.- Métodos de la clase String
 17.- Métodos de la clase Math
 
