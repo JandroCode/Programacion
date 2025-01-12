@@ -1,4 +1,4 @@
-public class Mathematicas {
+public class MetodosMath {
 
 
     public static void main(String[] args) {
