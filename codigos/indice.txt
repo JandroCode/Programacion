@@ -27,3 +27,11 @@ Ejercicios del 1 - 15 (eval. inicial)
  ===========================================
 
  Ejercicios POO (Poner el ejemplo con la cuenta bancaria) Ejercicios 2,3,4,5,6
+
+
+====================================================================================
+
+18.- Explicación de colecciones (Collection y Map)
+19.- Ejemplos de código de colecciones
+20.- Interfaces gráficas con Netbens (Hacer la "SUMA")
+21.- Como crear en puro código lo realizado en Netbeans con Intellij
